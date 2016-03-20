@@ -47,3 +47,4 @@
 "Emplea tus sentidos plenamente"::"Practicando el poder del ahora", Eckart Tolle::Miguel
 "Decide actuar antes de pensar, sigue tu primer impulso"::"Conversaciones con Dios", Neale Donald::Miguel
 "Para cambiar tu realidad simplemente deja de pensar como lo haces. Piensa en cambio "cada vez estoy más cerca de..."::"Conversaciones con Dios", Neale Donald::Miguel
+"Se el guardián siempre atento de tu espacio interno"::"Practicando el poder del ahora", Eckart Tolle::Miguel
