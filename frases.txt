@@ -1,5 +1,5 @@
 "Antes de juzgar a una persona, camina 3 lunas con sus mocasines"::Proverbio Sioux::Miguel001
-"No nos afecta lo que nos sucede, sino lo que nos decimos acerca de lo que nos sucede"::Epícteto::Miguel001
+"Lo que importa no es lo que te ocurre, sino cómo reaccionas ante el hecho"::Epícteto::Miguel001
 "Conviértete en la persona con la que desearías estar"::Rhonda Byrne, "El Secreto"::Miguel001
 "Di tu verdad tranquila"::Desiderata::Miguel001
 "La felicidad de tu vida depende de la calidad de tus pensamientos"::Marco Aurelio::Miguel001
@@ -62,6 +62,7 @@
 "El cielo no es un lugar, ni tampoco una condición. Es simplemente la conciencia de la perfecta unicidad y el conocimiento de que no hay nada más: nada fuera de esa unicidad ni nada adentro"::"Un curso de milagros", Helen Schucman::Miguel001
 "Cuando ofrecemos amor, apoyo, aprecio, amabilidad, gratitud, comprensión, afecto, amistad, ternura, devoción y bondad experimentamos abundancia"::"Lección 101 de Un curso de milagros", Jon Mundy::Miguel001
 "Hoy estás donde tus pensamientos te han traido; estarás mañana donde tus pensamientos te llevarán"::James Allen::Miguel001
+"No importan los errores que piensas que puedes haber cometido. Cuando cambias tu manera de sentir, ¡el pasado desaparece y tu vida cambia!::"El poder", Rhonda Byrne::Miguel001
 
 
 
