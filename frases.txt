@@ -77,8 +77,7 @@
 "Todo llega cuando tiene que llegar. Una vida no puede vivirse con prisas, no puede ajustarse a un calendario como intenta tamta gente."::"Los Mensajes de los Sabios", Brian Weiss::Miguel001
 "No tengas miedo. Somos inmortales, espíritus eternos, y siempre somos amados. De hecho, somos amor."."::"Los Mensajes de los Sabios", Brian Weiss::Miguel001
 "No te enfrentes al hombre que te hace daño. Si alguien te golpea en la mejilla derecha, ofrécele la izquierda. Si un hombre quiere demnadarte para quedarse con tu camisa, dale también tu abrigo."::La biblia::Miguel001
-
-
+"¿Qué hara el amor ahora si no hubiera miedos?"::Neale Donald Walsch::Miguel001
 
 
 
